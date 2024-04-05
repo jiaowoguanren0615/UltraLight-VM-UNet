@@ -14,7 +14,7 @@ click [here](https://github.com/jiaowoguanren0615/Install_Mamba/)
     ├── Prepare_PH2.py: Prepare PH2 dataset
     ├── Prepare_your_dataset.py: Prepare your own dataset
 ├── models: UltraLight VM-UNet Model
-    ├── build_model.py: Construct "UltraLight VM-UNet" model
+    ├── build_models.py: Construct "UltraLight VM-UNet" model
 ├── util:
     ├── engine.py: Function code for a training/validation process
     ├── losses.py: BCEDiceLoss
