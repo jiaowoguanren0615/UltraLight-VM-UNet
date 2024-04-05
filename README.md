@@ -26,8 +26,8 @@ click [here](https://github.com/jiaowoguanren0615/Install_Mamba/)
 ```
 
 ## Precautions
-Please run Prepare_ISIC2017/2018/PH2.py first before training corresponding dataset.
-If you want to train your own data set. Please run Prepare_your_dataset.py firstly. Additionally, enter the ___train_gpu.py___ file and modify the ___data_root___, ___batch_size___, ___num_workers___ and ___nb_classes___ parameters. 
+Please run ___Prepare_ISIC2017/2018/PH2.py___ first before training corresponding dataset.
+If you want to train your own data set. Please run ___Prepare_your_dataset.py___ firstly. Additionally, enter the ___train_gpu.py___ file and modify the ___data_root___, ___batch_size___, ___num_workers___ and ___nb_classes___ parameters. 
 
 ## Use Sophia Optimizer (in util/optimizer.py)
 You can use anther optimizer sophia, just need to change the optimizer in ___train_gpu.py___, for this training sample, can achieve better results
